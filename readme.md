@@ -1,6 +1,6 @@
 # Star Wars Wiki
 
-A SPA that retrieves data from https://swapi.co/api/ 
+A SPA retrieves data from https://swapi.co/api/ 
 The application contains a PHP client to retrieve the data from the api and analyse it. 
 
 #### Functionalities:
