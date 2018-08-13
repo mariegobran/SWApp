@@ -22,3 +22,4 @@ The application contains a PHP client to retrieve the data from the api and anal
 #### Notes:
 * all necessary libraries are included in js folder
 * the application is set to run on local machine.
+* the application home is StarWarsWiki.php
